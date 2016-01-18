@@ -1,0 +1,20 @@
+Metrics/LineLength:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
+
+Style/AccessorMethodName:
+  Enabled: false
+
+Style/AsciiComments:
+  Enabled: false
+
+Style/Alias:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/PredicateName:
+  Enabled: false
